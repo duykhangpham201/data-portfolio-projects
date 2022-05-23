@@ -1,5 +1,7 @@
 # Data Portfolio Projects
 
+This repo consists of data analyst portfolio project that I haved worked and currently working on. As a data and web3 enthusiast, I hope that these projects demonstrate my skills and understanding of those subjects. So far, my Python projects have contained Numpy, Pandas, Matplotlib, ScikitLearn, and TensorFlow.
+
 List of Projects:
 
 1. [Credit Card Fraud Detection](https://github.com/duykhangpham201/data-portfolio-projects/tree/master/credit-card-fraud)
