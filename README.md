@@ -7,10 +7,10 @@ This project demonstrates the use of Python along with its data analysis package
 - ScikitLearn and Tensorflow are used to build out the model that predict the Index prices 2 months into the future (with data from the previous 6 months).
 
 ### Crypto Model Output
-![crypto_output](https://github.com/duykhangpham201/data-portfolio-projects/blob/master/robo-advisor/crypto_output.png)
+![crypto_output](https://github.com/duykhangpham201/robo-advisor-project/blob/master/crypto_output.png)
 
 ### Stock Model Output
-![stock_output](https://github.com/duykhangpham201/data-portfolio-projects/blob/master/robo-advisor/stock_output.png)
+![stock_output](https://github.com/duykhangpham201/robo-advisor-project/blob/master/stock_output.png)
 
 2. RoboAdvisor.ipynb
 - Load and join the previous models created above.
