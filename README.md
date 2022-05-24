@@ -1,13 +1,17 @@
-# Data Portfolio Projects
+# Robo-Advisor Project
 
-This repo consists of data analyst portfolio project that I haved worked and currently working on. As a data and web3 enthusiast, I hope that these projects demonstrate my skills and understanding of those subjects. So far, my Python projects have contained Numpy, Pandas, Matplotlib, ScikitLearn, and TensorFlow.
+This project demonstrates the use of Python along with its data analysis packages (Numpy, Pandas, ScikitLearn, and TensorFlow).
 
-List of Projects:
+1. CryptoPredictor.ipynb & StockPredictor.ipynb
+- Use Numpy and Pandas to clean and organize data before analyzing.
+- ScikitLearn and Tensorflow are used to build out the model that predict the Index prices 2 months into the future (with data from the previous 6 months).
 
-1. [Credit Card Fraud Detection](https://github.com/duykhangpham201/data-portfolio-projects/tree/master/credit-card-fraud)
-* Used Python and Machine Learning to figure out the the model that predicts which transactions are fraud.
+### Crypto Model Output
+![crypto_output](https://github.com/duykhangpham201/data-portfolio-projects/blob/master/robo-advisor/crypto_output.png)
 
-2. [Robo Advisor](https://github.com/duykhangpham201/data-portfolio-projects/tree/master/robo-advisor)
-* Utilized Python and Data Analytic skills to clean & organize stock market and macroeconomic data.
-* Built Neural Network models that predict stock and crypto prices given historical data.
-* Applied the result to Modern Portfolio Theory to predict the best portfolio allocation given the investors' taste
+### Stock Model Output
+![stock_output](https://github.com/duykhangpham201/data-portfolio-projects/blob/master/robo-advisor/stock_output.png)
+
+2. RoboAdvisor.ipynb
+- Load and join the previous models created above.
+- Modern Portfolio Theory are used to give users the best portfolio allocation based on their risk tolerance.
